@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React and JavaScript**
 
-- 📫 How to reach me **bskuzey23@gmail.com**
+- 📫 How to reach me **BengisuKuzey23@gmail.com**
 
 - ⚡ Fun fact **I am fast-learner and I love cats**
 <hr>
