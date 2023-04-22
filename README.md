@@ -6,9 +6,9 @@
 <img align="right"  src="https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif">
 
 <h4> ABOUT ME </h4>
-- 🔭 I’m currently working on **JavaScript projects**
+- 🔭 I’m currently working on **react projects**
 
-- 🌱 I’m currently learning **React and JavaScript**
+- 🌱 I’m currently learning React, Typescript
 
 - 📫 How to reach me **BengisuKuzey23@gmail.com**
 
