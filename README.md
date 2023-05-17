@@ -8,7 +8,7 @@
 <h4> ABOUT ME </h4>
 - 🔭 I’m currently working on **react projects**
 
-- 🌱 I’m currently learning React, Typescript
+- 🌱 I’m currently learning React, react native
 
 - 📫 How to reach me **BengisuKuzey23@gmail.com**
 
